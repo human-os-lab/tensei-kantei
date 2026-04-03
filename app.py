@@ -250,7 +250,7 @@ with tab1:
                     st.metric('五芒星', result['天性鑑定'])
                     st.metric('五芒星鑑定数', result['五芒星鑑定数'])
                     st.metric('天与神', result['天与神'])
-                    st.metric('αβ', # αβ非表示)
+                    # αβ非表示
 
                 with col2:
                     st.markdown('#### 🔮 運命・ジュメリ')
